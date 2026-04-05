@@ -77,6 +77,19 @@ cd frontend
 npm install
 npm start
 
+## 🔐 Environment Setup
+
+This project uses the Groq API for AI features.
+
+### Steps:
+
+1. Go to https://console.groq.com/
+2. Create an account
+3. Generate an API key
+
+4. In the backend folder, create a `.env` file:
+
+
 ## ⚙️ System Architecture
 
 Frontend (React) communicates with backend APIs (Node.js/Express), which handle business logic and interact with the MySQL database.
