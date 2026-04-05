@@ -120,9 +120,9 @@ Based on this classification:
 
 This project was developed collaboratively by:
 
-- **Sentamil Murugan**
-- **[Teammate 2 Name]**
-- **[Teammate 3 Name]**
+- **Sentamil**
+- **Nishanth**
+- **Dharani**
 
 ---
 
