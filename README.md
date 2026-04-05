@@ -61,6 +61,21 @@ This project introduces a **behavior-aware task management system** that tracks 
 | API Style  | REST APIs            |
 
 ---
+## ▶️ How to Run the Project
+
+### 1. Clone the Repository
+git clone https://github.com/sentamil-murugan/Task-IQ.git
+cd Task-IQ
+
+### 2. Setup Backend
+cd backend
+npm install
+npm start
+
+### 3. Setup Frontend
+cd frontend
+npm install
+npm start
 
 ## ⚙️ System Architecture
 
